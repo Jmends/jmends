@@ -1,17 +1,15 @@
 ### Hi there 👋
-<hr style="height:1px; border:none; color:#000; background-color:#000;">
 
+<hr>
 
+My name is Jonathan. I'm a college student majoring in MIS (Management Information Systems) with a minor in Computer science. My goal is to be a software engineer. Currently, I'm learning Java in school, and on my own I'm learning full stack Web development. Be on the lookout for future projects!
 
-
-
-My name is Jonathan. I'm a college student majoring in MIS (Management Information Systems) with a minor in Computer science. My goal is to be a software engineer. Currently im learning javin school and on my own im learning full stack Webdevlopment. Be on the lookout for future projects!
 
 
 <!--
 **Jmends/jmends** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My name is Jonathan. I'm a college student majoring in MIS (Management Information Systems) with a minor in Computer science. My goal is to be a software engineer. Currently im learning javin school and on my own im learning full stack Webdevlopment. Be on the lookout for future projects!
+
 
 Here are some ideas to get you started:
 
