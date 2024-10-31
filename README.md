@@ -2,7 +2,7 @@
 
 <hr>
 
-My name is Jonathan. I'm a college student majoring in Software Engineering and my goal is to be a software engineer. Currently, I know a bit of Java, Python, HTML/CSS and currently in school i am learning C#. Be on the lookout for future projects!
+My name is Jonathan. I'm a college student majoring in Management Information Systems with a minor in Computer Science and my goal is to be a software engineer. Currently, I know a bit of Java, C#, Python, and HTML/CSS. Be on the lookout for future projects!
 
 
 
